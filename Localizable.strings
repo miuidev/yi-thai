@@ -229,7 +229,7 @@
 	<key>buzzer_volume</key>
 	<string>Speaker volume</string>
 	<key>buzzer_volume_high</key>
-	<string>High</string>
+	<string>สูง</string>
 	<key>buzzer_volume_low</key>
 	<string>Low</string>
 	<key>buzzer_volume_mute</key>
